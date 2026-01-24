@@ -18,7 +18,7 @@ Based on this perspective, I designed the project as a creature whose body is en
 *p5js or vscode*
 ## Screenshots / Media
 *![alt text](image.png)*
-## Credits / Acknowledgements
+## Author
 *Shiyi Ge*
 ## References
 *1. Deh, D., & Glođović, D. (2018). The Construction of Identity in Digital Space. A M , A rt+ M e d i a : J o u rn alo fA rtan dM e d i a S t u d i e s , 1 6 , 101–111. https://doi.org/10.25038/am.v0i16.257*
