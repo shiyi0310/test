@@ -1,4 +1,4 @@
-# PROJECT TITLE
+# Creature X
 ## Short Description
 *An interactive system where a digital creature grows and changes through user-input text, visualising identity as a process of continuous accumulation.*
 ## Introduction
